@@ -3,7 +3,7 @@
 
 <div>
 <a href="https://github.com/TiagoX8/TiagoX8">
-<img height="180em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoX8&layout=compact&langs_count=16&theme=midnight-purple"/>
+<img height="170em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoX8&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
  
 ![ezgif com-resize (8)](https://user-images.githubusercontent.com/114080034/226197924-9f19f613-e4aa-4823-b344-1b21ffdcfadf.gif)
