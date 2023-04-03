@@ -1,6 +1,6 @@
 ## Olá, Bem vindo!!
 
-
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 <div>
 <a href="https://github.com/TiagoX8/TiagoX8">
 <img height="200em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoX8&layout=compact&langs_count=16&theme=midnight-purple"/>
@@ -23,3 +23,5 @@
   <a href="https://www.linkedin.com/in/tiagodev08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+ 
+
